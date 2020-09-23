@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">MyUploadApplication</string>
+    <string name="choose">Choose</string>
+    <string name="select_capture_image">Please selected or capture image</string>
+    <string name="file_provider_name" translatable="false">.fileProvider</string>
+</resources>
